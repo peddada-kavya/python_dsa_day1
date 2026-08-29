@@ -7,3 +7,8 @@ github -host the code in the cloud
 ## git commands
 - git clone "url"
 - git add .
+- git commit -m "day1"
+- git config --unset user.name
+- git config --unset user.email
+- git config --global user.name "your name"
+- git config --global user.email "your email"
