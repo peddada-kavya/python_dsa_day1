@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #double linked list
 class Node:
     def __init__(self,data):
@@ -51,7 +50,6 @@ l1.add_node(30)
 l1.add_node(40)
 l1.display()
 l1.delete_node(20)
-=======
 #double linked list
 class Node:
     def __init__(self,data):
@@ -104,5 +102,4 @@ l1.add_node(30)
 l1.add_node(40)
 l1.display()
 l1.delete_node(20)
->>>>>>> cbf437861e3a966eab5cdaea6e4675efb36c1abf
 l1.display()        
